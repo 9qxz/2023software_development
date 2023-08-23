@@ -1,0 +1,38 @@
+.container{
+  height: 100wh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.picker {
+  height: 50rpx;
+  width: 700rpx;
+}
+
+.image {
+  width: 220rpx;
+}
+
+.text{
+  font-size: 80rpx;
+  color:3C5F81;
+}
+
+.detail{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.bar{
+  display: flex;
+  flex-direction: row;
+  margin: 20rpx 0;
+}
+
+.box{
+  width: 33.3%;
+  text-align: center;
+}
