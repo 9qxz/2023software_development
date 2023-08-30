@@ -1,0 +1,11 @@
+/* pages/game/game.wxss */
+image{
+  width: 250rpx;
+  height: 250rpx;
+}
+
+canvas{
+  border:1rpx solid;
+  width: 300px;
+  height: 300px;
+}
